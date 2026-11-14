@@ -5,7 +5,7 @@ SkyTrack Aviation is a Java-based aviation training management application devel
 
 The system focuses on tracking flight training hours, theoretical examination performance and overall student progress towards completing their aviation training requirements.
 
-Technologies Used:
+#Technologies Used:
 
 Java
 
@@ -15,7 +15,7 @@ NetBeans IDE
 
 ArrayList
 
-Key Features:
+#Key Features:
 
 Student pilot registration and profile management.
 
@@ -29,14 +29,14 @@ Calculating outstanding flight hours.
 
 Supporting different pilot training categories.
 
-Purpose:
+#Purpose:
 
 The purpose of this project was to apply Java programming concepts and object-oriented principles to develop a practical aviation training management solution.
 
-Development Environment:
+#Development Environment:
 
 Developed using Apache NetBeans IDE.
 
-Author
+#Author
 
 Lufuno Nenjelele
